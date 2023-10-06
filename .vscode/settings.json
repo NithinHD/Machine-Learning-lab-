@@ -1,3 +1,6 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "explorer.fileNesting.enabled": true,
+    "scm.defaultViewMode": "list",
+    "scm.experimental.showSyncView": false
 }
